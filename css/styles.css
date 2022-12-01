@@ -398,7 +398,7 @@ h2 {
 }
 .footer-contact {
     display: flex;
-    position: relative;
+
 }
 .logo-white {
     color: #FFFFFF;
@@ -470,8 +470,7 @@ h2 {
 }
 .footer-sing-up {
     margin-top: 12px;
-    position: absolute;
-    right: 0;
+    margin-left: 117px; 
 } 
 
 .footer-form {
